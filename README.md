@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-For now, I'm just thinking in what to put here 🙃
+Welcome to my GitHub 🙃.
 
 
 
